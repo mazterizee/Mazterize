@@ -9,7 +9,9 @@ This contains everything you need to run your app locally.
 View your app in AI Studio: https://ai.studio/apps/394fb459-35e0-4c9e-98e4-6bb1f4d3dd01
 
 https://mazterize.net/pc-softwares/
+
 https://mazterize.net/mac-software/
+
 https://mazterize.net/adobe-products-dowload/
 
  
